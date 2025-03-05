@@ -71,8 +71,8 @@ mensagem de erro será exibida.
 1. Clone este repositório:
    <pre class="not-prose w-full rounded font-mono text-sm font-extralight"><div class="codeWrapper text-textMainDark selection:!text-superDark selection:bg-superDuper/10 bg-offset dark:bg-offsetDark my-md relative flex flex-col rounded font-mono text-sm font-thin"><div class="translate-y-xs -translate-x-xs bottom-xl mb-xl sticky top-0 flex h-0 items-start justify-end"></div></div></pre>
 
-* <pre class="not-prose w-full rounded font-mono text-sm font-extralight"><div class="codeWrapper text-textMainDark selection:!text-superDark selection:bg-superDuper/10 bg-offset dark:bg-offsetDark my-md relative flex flex-col rounded font-mono text-sm font-thin"><div class="-mt-xl"><div><div class="text-text-200 bg-background-300 py-xs px-sm inline-block rounded-br rounded-tl-[3px] font-thin">bash</div></div><div class="pr-lg"><span><code><span><span class="token token">git</span><span> clone https://github.com/seu-repositorio.git
-  </span></span><span><span></span><span class="token token">cd</span><span> seu-repositorio
+* <pre class="not-prose w-full rounded font-mono text-sm font-extralight"><div class="codeWrapper text-textMainDark selection:!text-superDark selection:bg-superDuper/10 bg-offset dark:bg-offsetDark my-md relative flex flex-col rounded font-mono text-sm font-thin"><div class="-mt-xl"><div><div class="text-text-200 bg-background-300 py-xs px-sm inline-block rounded-br rounded-tl-[3px] font-thin">bash</div></div><div class="pr-lg"><span><code><span><span class="token token">git</span><span> clone https://github.com/GuilhermeSP01/bsf-fastapi.git
+  </span></span><span><span></span><span class="token token">cd</span><span> bsf-fastapi
   </span></span><span></span></code></span></div></div></div></pre>
 * Crie um ambiente virtual e ative-o:
 
