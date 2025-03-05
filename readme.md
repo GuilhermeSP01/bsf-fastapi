@@ -44,8 +44,8 @@ mensagem de erro será exibida.
 
 ## Backend
 
-* **FastAPI** : Framework para criação de APIs rápidas e eficientes.
-* **Python 3.9+**
+* **FastAPI**
+* **Python 3.12**
 
 ## Frontend
 
