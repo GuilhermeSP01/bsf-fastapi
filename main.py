@@ -12,6 +12,14 @@ app = FastAPI()
 def root():
     return FileResponse("static/index.html")
 
+@app.get("/styles.css")
+def styles():
+    return FileResponse("static/styles.css")
+
+@app.get("/script.js")
+def script():
+    return FileResponse("static/script.js")
+
 @app.post("/solve")
 async def solve(request: Request):
     data = await request.json()
